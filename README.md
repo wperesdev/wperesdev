@@ -6,7 +6,7 @@ I'm a passionate software developer with a strong interest in web development, c
 - 🌱 I’m currently learning **Rust** and **Kubernetes**
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about **JavaScript**, **Python**, and **AWS**
-- 📫 How to reach me: [wperesdev@gmail.com](mailto:wperesdev@gmail.com)
+- 📫 How to reach me: [wfperesl2@gmail.com](mailto:wfperesl2@gmail.com)
 - ⚡ Fun fact: I love hiking and photography
 
 ## Skills
@@ -46,6 +46,6 @@ Here are some of my notable projects:
 
 ## Connect with Me
 - [LinkedIn](https://br.linkedin.com/in/wesleyperes)
-- [Twitter](https://twitter.com/wperesdev)
+- [Instagram](https://instagram.com/wesley.fperes)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about technology!
