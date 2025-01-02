@@ -32,14 +32,6 @@ I'm a passionate software developer with a strong interest in web development, c
 - **Databases:**
   - MySQL
   - PostgreSQL
-  - MongoDB
-
-## Projects
-Here are some of my notable projects:
-
-- [**Project One**](https://github.com/wperesdev/project-one) - A web application built with React and Node.js.
-- [**Project Two**](https://github.com/wperesdev/project-two) - An API service developed using Django and PostgreSQL.
-- [**Project Three**](https://github.com/wperesdev/project-three) - A containerized microservice architecture project using Docker.
 
 ## GitHub Stats
 ![WPeresDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wperesdev&show_icons=true&theme=radical)
