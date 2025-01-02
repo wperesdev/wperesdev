@@ -44,6 +44,10 @@ Here are some of my notable projects:
 ## GitHub Stats
 ![WPeresDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wperesdev&show_icons=true&theme=radical)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wperesdev&&hide=cmake&langs_count=4&line_height=35" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wperesdev" />
+
 ## Connect with Me
 - [LinkedIn](https://br.linkedin.com/in/wesleyperes)
 - [Instagram](https://instagram.com/wesley.fperes)
