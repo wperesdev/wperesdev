@@ -1,4 +1,4 @@
-# Hi there, I'm WPeresDev 👋
+# Hi there, I'm Wesley Peres 👋
 
 ## About Me
 I'm a passionate software developer with a strong interest in web development, cloud computing, and open-source contributions. I love learning new technologies and applying them to solve real-world problems.
@@ -45,7 +45,7 @@ Here are some of my notable projects:
 ![WPeresDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wperesdev&show_icons=true&theme=radical)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/wperesdev)
+- [LinkedIn](https://br.linkedin.com/in/wesleyperes)
 - [Twitter](https://twitter.com/wperesdev)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about technology!
